@@ -7,7 +7,7 @@
 A simple website containing name, photo, and placeholder links for projects 2, 3, and 4.  Main purpose is to demonstrate Git and server workflow are in working order.
 
 ## Demo
-<https://www.youtube.com/>
+<https://youtu.be/p1yWNgMHi8M/>
 
 ## Details for teaching team
 No additional details.
