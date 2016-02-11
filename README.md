@@ -13,4 +13,5 @@ A simple website containing name, photo, and placeholder links for projects 2, 3
 No additional details.
 
 ## Outside code, plugins, libraries, packages used in project
-None.
+* Bootstrap: http://getbootstrap.com/
+* Susan Buck's P1 Example: http://p1.dwa15.com/
