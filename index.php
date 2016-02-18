@@ -26,18 +26,18 @@
 
     <h3><b>P2: PHP Basics<b></h3>
 
-    <p>View: [<a href="#">link</a>]</p>
-    <p>Github: [<a href="#">link</a>]</p>
+    <p>View: [<a href="p2.tulou.io">link</a>]</p>
+    <p>Github: [<a href="https://github.com/tulou/p2">link</a>]</p>
 
     <h3><b>P3: Laravel Basics<b></h3>
 
-    <p>View: [<a href="#">link</a>]</p>
-    <p>Github: [<a href="#">link</a>]</p>
+    <p>View: [<a href="p3.tulou.io">link</a>]</p>
+    <p>Github: [<a href="https://github.com/tulou/p3">link</a>]</p>
 
     <h3><b>P4: Final<b></h3>
 
-    <p>View: [<a href="#">link</a>]</p>
-    <p>Github: [<a href="#">link</a>]</p>
+    <p>View: [<a href="p4.tulou.io">link</a>]</p>
+    <p>Github: [<a href="https://github.com/tulou/p4">link</a>]</p>
 
   </div>
 </body>
